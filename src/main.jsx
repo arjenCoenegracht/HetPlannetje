@@ -258,7 +258,7 @@ function App() {
             <p className="eyebrow">Een officiele uitnodiging</p>
             <h1>Zin om met Arjen op date te gaan?</h1>
             <p className="lead">
-              Een simpele vraag. Als het niet is, is het niet :)
+              Een simpele vraag. Als het niet is, is het niet :), Lowkey daag ik u uit om continu op nee te duwen, of toch niet?
             </p>
             <div className="choice-row">
               <button className="primary-btn" onClick={() => setStage("calendar")}>
