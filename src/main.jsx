@@ -126,7 +126,7 @@ const detailQuestions = {
   walk: {
     title: "Waar wandelen we?",
     subtitle: "Met genoeg ruimte om leuk te praten.",
-    options: ["Park", "Stad", "Langs het water", "Zonsondergang", "Met ijsje erbij", "Verrassingsroute"],
+    options: ["Park", "Stad", "Langs het water", "Zonsondergang", "Met ijsje erbij", "Verrassing"],
   },
 };
 
