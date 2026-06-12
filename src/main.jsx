@@ -30,7 +30,7 @@ const noScreens = [
   "Wat als we vis gaan eten (ja vis)",
   "Wat als het stiekem mijn idee was om continu op nee te doen klikken?",
   "Oke, maar echt echt zeker?",
-  "Oke dit is echt de laatste vraag, als je nu op nee klikt, is het wel duidelijk",
+  "Oke dit is echt de laatste vraag, ge durft echt nie nog eens op nee te klikken. PS: is voor uw eigen bestwil",
 ];
 
 const availability = [
